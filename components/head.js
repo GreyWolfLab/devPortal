@@ -20,6 +20,7 @@ const Head = props => (
     <link href="https://fonts.googleapis.com/css?family=Montserrat:400,700%7CVarela+Round" rel="stylesheet"/>
     
     <link type="text/css" rel="stylesheet" href="/public/css/styles.css" />
+    <link type="text/css" rel="stylesheet" href=" /public/css/styles.css" />
 
 
 
