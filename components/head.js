@@ -19,8 +19,8 @@ const Head = props => (
     <link rel="apple-touch-icon" href="/static/touch-icon.png" />
     <link href="https://fonts.googleapis.com/css?family=Montserrat:400,700%7CVarela+Round" rel="stylesheet"/>
     
-    <link type="text/css" rel="stylesheet" href="/public/css/styles.css" />
-    <link type="text/css" rel="stylesheet" href=" /public/css/styles.css" />
+    <link type="text/css" rel="stylesheet" href="css/styles.css" />
+    <link type="text/css" rel="stylesheet" href="css/devhubza.css" />
 
 
 
