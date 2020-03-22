@@ -1,0 +1,27 @@
+{
+  "name": "devPortal",
+  "version": "1.0.0",
+  "description": "One place for us to come togehter online",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GreyWolfLab/devPortal.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GreyWolfLab/devPortal/issues"
+  },
+  "homepage": "https://github.com/GreyWolfLab/devPortal#readme",
+  "dependencies": {
+    "next": "^9.3.1",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
+  }
+}
