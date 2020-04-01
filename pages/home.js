@@ -17,12 +17,8 @@ export default function Index() {
         <div className="devhub-flex-wrap">
           <div className="devhub-flex devhub-h-64 "></div>
         
-        <div className="devhub-flex devhub-h-64 devhub-items-center devhub-justify-center">
-        <a href="https://github.com/login/oauth/authorize?client_id=bf37cd3a98ec77d66a8d"> 
-        <i className="fa fa-github devhub-text-white " style={logoIcon}></i>
-        </a>
-
-       
+        <div className="devhub-flex devhub-h-64 devhub-items-center devhub-justify-center devhub-text-white">
+            Coming Soon  
         </div>
       
 
