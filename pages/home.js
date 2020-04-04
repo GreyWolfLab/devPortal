@@ -1,9 +1,6 @@
 import Head from "../components/head";
 
 export default function Index() {
-  const logoIcon = {
-    fontSize: '6em'
-  };
 
     return (
 
