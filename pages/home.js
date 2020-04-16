@@ -20,7 +20,6 @@ export default function Index() {
     <Head></Head>
       <h1 className="devhub-text-white devhub-home-title">Dev Hub SA</h1>
       <div className="devhub-w-screen devhub-h-screen devhub-flex devhub-items-center devhub-justify-center devhub-bg-black">
-        
         <div className="devhub-text-white devhub-grid-cols-3" >
         <div className="devhub-home-text-center"><FontAwesomeIcon icon={faCode} size="50px"/></div>
             <button className="devhub-home-button">Dev</button>
