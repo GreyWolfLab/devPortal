@@ -1,7 +1,7 @@
 import Head from "../components/head";
-import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
+/*import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faCoffee } from '@fortawesome/free-solid-svg-icons';
-import { faCode } from '@fortawesome/free-solid-svg-icons';
+import { faCode } from '@fortawesome/free-solid-svg-icons';*/
 
 export default function Index() {
 
