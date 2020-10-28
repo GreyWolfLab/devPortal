@@ -20,7 +20,7 @@
   },
   "homepage": "https://github.com/GreyWolfLab/devPortal#readme",
   "dependencies": {
-    "next": "^9.3.2",
+    "next": "^10.0.0",
     "react": "^16.13.1",
     "react-dom": "^16.13.1"
   }
